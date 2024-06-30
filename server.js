@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
 // Храним соответствие ключевых слов и URL
 const keywordMap = {
   "news": [
-      "https://www.hq.nasa.gov/alsj/a17/A17_FlightPlan.pdf"          
+      "https://www.nasa.gov/wp-content/uploads/static/history/alsj/a17/A17_FlightPlan.pdf"          
   ],
   "sports": [
       "https://upload.wikimedia.org/wikipedia/commons/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg", 
